@@ -1,4 +1,4 @@
-function(noting) {
+function(no {
 	return 
 }
 
