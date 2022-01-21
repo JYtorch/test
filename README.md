@@ -1,1 +1,3 @@
-React!
+function(React) {
+	return 
+}
